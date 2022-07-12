@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Cinzel:wght@400;500;600;700;800&family=Poppins:wght@200;400;500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cinzel', serif;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer {
+    height: 200px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.938);
+}
+
+.footer-intro {
+    height: 200px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.footer-menu {
+    height: 200px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-menu h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.footer-menu ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-intro h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer-intro p {
+    width: 70%;
+    text-align: center;
+}
+
+.footer-contato{
+    padding: 0px 20px;
+}
+
+
+.footer-contato h4{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.footer-contato ul {
+    list-style: none;
+}
+
+.footer-contato i {
+    margin-right: 10px;
+}
