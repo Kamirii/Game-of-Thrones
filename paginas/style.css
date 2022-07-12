@@ -7,6 +7,7 @@
    
     font-family: "Helvatica"  san-serif;
     font-size: 16px;
+    background: url(../paginas/images/got.png);
    }
    p{
         letter-spacing: .9px;
@@ -76,7 +77,6 @@
     position: relative;
        width: 100%;
        height: 100vh;
-       background: url(../got.png);
        background-size: cover;
        background-position: right center;
        padding: 180px 0px;
