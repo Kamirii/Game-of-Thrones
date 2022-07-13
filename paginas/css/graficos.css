@@ -253,12 +253,23 @@ button:hover::before {
 
 .curiosity-box{
     margin: 40px;
+    height: 300px;
     width: 500px;
     background-color:aliceblue;
+    border-radius: 4px;
+    
 }
 .curiosity-container{
     display: flex;
     justify-content: center;
     align-items: center;
     
+
+}
+.text-curiosity-box {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+
 }
