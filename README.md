@@ -69,7 +69,7 @@ pertinentes
    Depois da importação, você verá o arquivo com as querys disponíveis, para rodar selecione a query desejada e clique no icone de raio.
 
    
-   <hr>
+  
 
    ## ⚔️ **Gráficos**
 
