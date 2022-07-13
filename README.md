@@ -75,7 +75,7 @@ pertinentes
 
       Você pode ver os gráficos das consultas realizadas [aqui](https://git-scm.com/downloads)
 
-
+<hr>
 
 
 ## ⚔️ **Squad**
