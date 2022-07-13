@@ -179,10 +179,6 @@ button:hover::before {
 .footer {
     height: 200px;
     color: #fff;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    
 }
 
 .footer-intro {
