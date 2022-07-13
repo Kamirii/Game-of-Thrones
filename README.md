@@ -86,7 +86,7 @@ pertinentes
 
  ⚔️ [Camily Albres](https://github.com/Kamirii)
 
- ⚔️ [Arthur Tolentino](https://github.com/ArturTolentino)
+ ⚔️ [Artur Tolentino](https://github.com/ArturTolentino)
 
 
 
