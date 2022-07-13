@@ -78,3 +78,17 @@ pertinentes
 <hr>
 
 
+## ⚔️ **Squad**
+
+ ⚔️ [Caroline Araújo](https://github.com/carolfranca0310)
+
+ ⚔️ [Shiellyn Ferreira](https://github.com/ShiellynFerr)
+
+ ⚔️ [Camily Albres](https://github.com/Kamirii)
+
+ ⚔️ [Arthur Tolentino](https://github.com/ArturTolentino)
+
+
+
+
+> Esse é um projeto fictício, sem registro de marca, desenvolvido pelo squad 9 para fins educacionais do módulo 3 do curso de Desenvolvimento Web da Resilia Educação. © 2022, todos os direitos reservados.  
